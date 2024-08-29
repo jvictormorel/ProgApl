@@ -34,15 +34,6 @@ O projeto se encontra em fase inicial, portanto novas funções podem ser implem
 - Python
 - C++
 
-## Primeiros passos
-
-### Pré requisitos
-
-### Instalação
-
-## Modo de uso
-
-## Agradecimentos
 
 
 
